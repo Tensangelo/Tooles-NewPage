@@ -93,6 +93,7 @@ body {
 body {
   color: #000000;
   background: #ffffff;
+  overflow-x: hidden;
 }
 
 a {
