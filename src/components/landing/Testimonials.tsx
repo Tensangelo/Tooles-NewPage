@@ -5,8 +5,8 @@ import User from '@images/resources/david.png';
 const Testimonials = () => {
     return (
         <section className='mt-32'>
-            <section className='flex flex-wrap justify-center items-center'>
-                <div className='p-[1rem] lg:p-10 rounded-xl md:rounded-l-xl w-[max-content]' style={{'background': 'linear-gradient(134.49deg, #1D2F68 0%, #30468A 100%)'}}>;
+            <section className='flex flex-wrap-reverse justify-center items-center'>
+                <div className='p-[1rem] lg:p-10 md:rounded-l-xl w-[max-content]' style={{'background': 'linear-gradient(134.49deg, #1D2F68 0%, #30468A 100%)'}}>;
                     <p className='text-white font-bold text-xl max-w-xs'>
                         La herramienta online con la que cuenta Tooles se convierte en una plataforma sencilla pero eficiente a la hora de monitorear y supervisar los procesos en curso en los diferentes juzgados del país.
                     </p>
